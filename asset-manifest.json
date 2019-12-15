@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/todolist/static/css/main.d37513cd.chunk.css",
+    "main.js": "/todolist/static/js/main.8c448967.chunk.js",
+    "main.js.map": "/todolist/static/js/main.8c448967.chunk.js.map",
+    "runtime-main.js": "/todolist/static/js/runtime-main.75b5d516.js",
+    "runtime-main.js.map": "/todolist/static/js/runtime-main.75b5d516.js.map",
+    "static/js/2.47c913cd.chunk.js": "/todolist/static/js/2.47c913cd.chunk.js",
+    "static/js/2.47c913cd.chunk.js.map": "/todolist/static/js/2.47c913cd.chunk.js.map",
+    "index.html": "/todolist/index.html",
+    "precache-manifest.b4cf0879b08b1a818b870b850733b6ec.js": "/todolist/precache-manifest.b4cf0879b08b1a818b870b850733b6ec.js",
+    "service-worker.js": "/todolist/service-worker.js",
+    "static/css/main.d37513cd.chunk.css.map": "/todolist/static/css/main.d37513cd.chunk.css.map",
+    "static/js/2.47c913cd.chunk.js.LICENSE": "/todolist/static/js/2.47c913cd.chunk.js.LICENSE",
+    "static/media/check.svg": "/todolist/static/media/check.d29f1779.svg",
+    "static/media/down_button.svg": "/todolist/static/media/down_button.2f236e6f.svg",
+    "static/media/uncheck.svg": "/todolist/static/media/uncheck.40eb9cc6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75b5d516.js",
+    "static/js/2.47c913cd.chunk.js",
+    "static/css/main.d37513cd.chunk.css",
+    "static/js/main.8c448967.chunk.js"
+  ]
+}
